@@ -15,5 +15,9 @@
 			"Name": "MultiUserClient",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"IOS"
 	]
 }
